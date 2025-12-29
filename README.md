@@ -1,4 +1,4 @@
-# Dồ án chuyên ngành - Nhóm 14 (Face Liveness / Spoof Checker)
+# Face Liveness / Spoof Checker
 
 Dự án cung cấp API backend bằng Python và một giao diện frontend trực quan giúp demo khả năng phân biệt khuôn mặt thật và khuôn mặt giả (spoof) từ ảnh hoặc video.Dùng để xác thực người dùng khi đăng nhập hoặc truy cập vào các dịch vụ nội bộ trong công ty, phòng lab hoặc trung tâm nghiên cứu.
 
@@ -87,6 +87,7 @@ project_root/
    ```
   **Mở frontend**
    - Mở `fe/index.html` bằng **Live Server** (VS Code) → FE gọi `http://127.0.0.1:8000`.
+
 
 
 
